@@ -1,6 +1,6 @@
 # Network-Visualization Tool
 
-The tool has been developed in R using the “shiny” package. In addition to shiny, we require the following packages installed:
+The tool has been developed in R using the `shiny` package. In addition to `shiny`, we require the following packages installed:
 
 * igraph: to plot the networks, calculate network centrality measures
 
